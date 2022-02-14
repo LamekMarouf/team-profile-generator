@@ -6,5 +6,5 @@ This is a team profile generator that creates a team of managers, engineers and 
 
 ## Recording of how my project works
 
-https://user-images.githubusercontent.com/89329958/153784223-7a73a6f1-d9ed-47a4-a80a-aaacab480295.mp4
+https://user-images.githubusercontent.com/89329958/153785232-f696d52b-6ddd-4622-a6e9-0b283d9af8d5.mp4
 
